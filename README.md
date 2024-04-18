@@ -1,4 +1,4 @@
-# face_mask_detector_app
+# Face Mask Detector - Flutter AI
 
 A new Flutter project.
 
